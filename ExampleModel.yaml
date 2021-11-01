@@ -1,0 +1,5 @@
+title: ExampleModel
+type: object
+properties:
+  id:
+    type: string
